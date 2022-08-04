@@ -5,9 +5,17 @@ h1 {
 text-align: center;
 }
 .caixa1 {
-position: relative;
-background: blue;
+    position: relative;
+background: rgb(154, 154, 207);
 width: 200px;
 height: 200px;
 color: #FFFFFF;
 left: 50%;
+}
+.menupricipal{
+    position: absolute;
+    background-color: rgb(68, 180, 152));
+    width: 100px;
+    height: 100px;
+    top: 0pt;
+}
